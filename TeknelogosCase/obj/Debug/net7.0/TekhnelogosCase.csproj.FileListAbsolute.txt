@@ -1,0 +1,14 @@
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.AssemblyInfoInputs.cache
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.AssemblyInfo.cs
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.csproj.CoreCompileInputs.cache
+C:\Natro\TeknelogosCase\TeknelogosCase\bin\Debug\net7.0\TekhnelogosCase.exe
+C:\Natro\TeknelogosCase\TeknelogosCase\bin\Debug\net7.0\TekhnelogosCase.deps.json
+C:\Natro\TeknelogosCase\TeknelogosCase\bin\Debug\net7.0\TekhnelogosCase.runtimeconfig.json
+C:\Natro\TeknelogosCase\TeknelogosCase\bin\Debug\net7.0\TekhnelogosCase.dll
+C:\Natro\TeknelogosCase\TeknelogosCase\bin\Debug\net7.0\TekhnelogosCase.pdb
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.dll
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\refint\TekhnelogosCase.dll
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.pdb
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TekhnelogosCase.genruntimeconfig.cache
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\ref\TekhnelogosCase.dll

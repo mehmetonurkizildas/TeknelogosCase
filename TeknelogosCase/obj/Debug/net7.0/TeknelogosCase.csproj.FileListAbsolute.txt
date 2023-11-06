@@ -1,0 +1,4 @@
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TeknelogosCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TeknelogosCase.AssemblyInfoInputs.cache
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TeknelogosCase.AssemblyInfo.cs
+C:\Natro\TeknelogosCase\TeknelogosCase\obj\Debug\net7.0\TeknelogosCase.csproj.CoreCompileInputs.cache
